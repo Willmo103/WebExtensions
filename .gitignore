@@ -1,3 +1,4 @@
 /node_modules
 chatGPT*.json
 package-lock*.json
+*data.json
